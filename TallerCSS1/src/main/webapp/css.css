@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+    A:link {color:#0000cc;} 
+    A:visited {color:#0000cc;} 
+    A:active {color:#0000cc;} 
+    A:hover {color:#0000ff;} 
+
+    A.clase1:visited {color:#ffff00;} 
+    A.clase1:active {color:#ffff00;} 
+    A.clase1:link {color:#ffff00} 
+    A.clase1:hover {color:#00ff00} 
+
+    A.clase2:visited {font-size:12;color:#ffffff;} 
+    A.clase2:active {font-size:12;color:#ffffff;} 
+    A.clase2:link {font-size:12;color:#ffffff;} 
+    A.clase2:hover {font-size:12;color:#ffff33;} 
+
+    body {font-family:arial;font-size:11;font-weight:bold} 
+    td {font-family:arial;font-size:11;font-weight:bold} 
+
