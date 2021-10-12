@@ -23,7 +23,7 @@ están definidos por clases
     <td bgcolor="#aa0000"><a href="#" class="clase2">Opciones 1</a></td> 
 </tr> 
 <tr> 
-    <td bgcolor="red"><a href="#" class="clase1">Enlace clase1</a></td> 
+    <td bgcolor="green"><a href="#" class="clase1">Enlace clase1</a></td> 
 </tr> 
 <tr> 
     <td bgcolor="red"><a href="#" class="clase1">Otro de clase1</a></td> 
